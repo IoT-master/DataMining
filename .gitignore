@@ -1,0 +1,7 @@
+.vscode
+.env
+# Results/*
+# !Results/.keep
+__pycache__
+# SummarizedArticles/*
+# !SummarizedArticles/.keep
